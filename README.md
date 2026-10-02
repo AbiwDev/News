@@ -277,9 +277,7 @@ http://127.0.0.1:8000/
 
 **Abiw**
 
-GitHub: AbiwDev
 
 ```
-
-**Shularni GitHub’ga qo‘yib chiq.** Keyin men senga **6 ta repo uchun final professional tartib + CV’da qaysilarini qanday yozish kerakligini** tayyorlab beraman.
+GitHub: AbiwDev
 ```
